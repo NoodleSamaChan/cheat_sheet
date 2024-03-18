@@ -16,4 +16,8 @@
 //process to create a new repo and synching it with local fie
 Create file in github
 git init in terminal
-take ssh link
+git remote add origin + ssh link
+git add 
+git commit
+git push -u origin main
+
