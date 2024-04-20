@@ -9,7 +9,7 @@
         git checkout -b name-of-the-branch
         git add
         git commit -m "blabla"
-        git push --set-upstream origin name-of-the-branch
+        git push -u origin name-of-the-branch
     //create PR
         "fixes link-to-issue"
 
@@ -20,4 +20,3 @@ git remote add origin + ssh link
 git add 
 git commit
 git push -u origin main
-
